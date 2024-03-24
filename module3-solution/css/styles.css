@@ -1,0 +1,24 @@
+body { 
+    padding-top: 70px; 
+}
+
+div section p {
+    height: 1000px;
+    background-color: silver;
+    text-align: justify;
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+#nav-list span {
+    text-align: center;
+    background-color:midnightblue;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+  }
+  #nav-list:nth-child(1){
+    border-top: 1px solid #fff;
+  }
+  .navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
