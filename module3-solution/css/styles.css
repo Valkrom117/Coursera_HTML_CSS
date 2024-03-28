@@ -4,7 +4,7 @@ body {
 
 div section p {
     height: 1000px;
-    background-color: #c0c0c0;
+    background-color: silver;
     text-align: justify;
     padding-top: 10px;
     overflow: hidden;
@@ -12,7 +12,7 @@ div section p {
 
 #nav-list span {
     text-align: center;
-    background-color:#191970;
+    background-color:midnightblue;
     border-bottom: 1px solid #fff;
     color: #fff;
   }
